@@ -1,0 +1,4 @@
+Demand Level,Representative Date,Total Vehicles,Average Rate (vehicles/sec),Off-Peak Rate (vehicles/sec),Peak-Hour Rate (vehicles/sec)
+Low,"Monday, May 6, 2019",45112,1.04,0.59,1.29
+Medium,"Wednesday, May 1, 2019",51298,1.19,0.76,1.42
+High,"Friday, June 21, 2019",61261,1.42,0.98,1.59

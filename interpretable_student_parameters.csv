@@ -1,0 +1,7 @@
+Feature,NS Weight,EW Weight,NS Exponent,EW Exponent
+Stopped vehicles,55.860832,41.885292,0.5,0.5
+Approaching vehicles,0.062204275,0.0034694825,1.9903945,1.9572505
+Cumulative waiting time,0.00010810935,0.00011239981,1.9615785,1.9206595
+Average waiting time,42.30812,51.55493,0.5,0.5000001
+Average queue length,55.860832,41.885292,0.5,0.5
+Average approaching speed,0.00016493566,0.00019032812,1.9948597,1.9917364

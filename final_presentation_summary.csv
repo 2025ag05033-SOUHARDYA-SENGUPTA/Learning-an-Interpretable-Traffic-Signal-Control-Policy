@@ -1,0 +1,10 @@
+Demand Level,Controller,Average Delay,Delay Std Dev,Cumulative Queue,Vehicles Departed,Remaining Vehicles,Delay Reduction vs Baseline (%),Interpretation
+Low,Actuated Baseline,4.01604981954277,1.506929531055454,1117.5,264.35,7.8,0.0,No delay reduction relative to the actuated baseline in this simplified experiment.
+Low,DQN Teacher,1.9727229200355125,0.1903897210620202,539.05,270.0,2.15,50.87902270445169,Lower delay than the actuated baseline.
+Low,Interpretable Student,1.9986624098452546,0.18269838209292563,546.15,269.85,2.3,50.233127086237104,Lower delay than the actuated baseline.
+Medium,Actuated Baseline,19.47560636495509,3.9854648668413883,8520.45,341.35,94.5,0.0,No delay reduction relative to the actuated baseline in this simplified experiment.
+Medium,DQN Teacher,3.7033924373739593,0.5997639146687537,1624.1,427.35,8.5,80.98445630921182,Lower delay than the actuated baseline.
+Medium,Interpretable Student,3.749630273280661,0.6776350814119552,1644.45,427.3,8.55,80.7470422074876,Lower delay than the actuated baseline.
+High,Actuated Baseline,32.807311396744076,3.344597598426696,19647.35,360.55,236.7,0.0,No delay reduction relative to the actuated baseline in this simplified experiment.
+High,DQN Teacher,9.568203532402858,1.8173490669528412,5751.05,547.2,50.05,70.83514885845707,Lower delay than the actuated baseline.
+High,Interpretable Student,10.269956963596751,2.157449352240278,6179.0,540.45,56.8,68.69613349475513,Lower delay than the actuated baseline.

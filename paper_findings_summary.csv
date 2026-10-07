@@ -1,0 +1,5 @@
+Paper Finding,Interpretation
+DRHQ result,DRHQ achieved up to 19.4% reduced delay relative to the actuated baseline.
+DQN result,DQN achieved the strongest delay performance but remained uninterpretable.
+PPO result,"PPO had smoother learning but slower and weaker convergence, especially at high demand."
+CMA-ES result,CMA-ES could tune the function but required inefficient and potentially unsafe exploration.
